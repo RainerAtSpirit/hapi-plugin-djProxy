@@ -1,12 +1,12 @@
 {
-    "name": "hapi-plugin-dyProxy",
+    "name": "hapi-plugin-djProxy",
     "description": "OData service proxy",
     "version": "0.1.0",
     "author": {
         "name": "Rainer Wittmann",
         "url": "http://rainerat.spirit.de"
     },
-    "repository": "https://github.com/RainerAtSpirit/hapi-plugin-dyProxy",
+    "repository": "https://github.com/RainerAtSpirit/hapi-plugin-djProxy",
     "main": "index",
     "keywords": [
         "hapi",
