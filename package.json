@@ -1,7 +1,7 @@
 {
     "name": "hapi-plugin-djProxy",
     "description": "OData service proxy",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "Rainer Wittmann",
         "url": "http://rainerat.spirit.de"
