@@ -1,0 +1,27 @@
+{
+    "name": "hapi-plugin-dyProxy",
+    "description": "OData service proxy",
+    "version": "0.1.0",
+    "author": {
+        "name": "Rainer Wittmann",
+        "url": "http://rainerat.spirit.de"
+    },
+    "repository": "https://github.com/RainerAtSpirit/hapi-plugin-dyProxy",
+    "main": "index",
+    "keywords": [
+        "hapi",
+        "plugin",
+        "djAPIExplorer",
+        "proxy"
+    ],
+    "engines": {
+        "node": "0.10.x"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://github.com/spumko/hapi-plugin-test/raw/master/LICENSE"
+        }
+    ],
+    "private": true
+}
